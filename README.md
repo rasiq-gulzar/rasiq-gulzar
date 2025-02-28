@@ -6,7 +6,7 @@
 - 💞️ I'm looking to collaborate on open-source projects related to ML applications or innovative web solutions
 - 📫 How to reach me: [Portfolio](https://rasiq-gulzar.github.io/resume-myportfolio.io.in/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can solve a Rubik's cube in under two minutes and enjoy hiking to remote places where I can stargaze without light pollution
+- ⚡ Fun fact: Enjoy hiking to remote places where I can stargaze without light pollution.
 
 ## Skills
 ```
