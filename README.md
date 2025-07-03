@@ -10,9 +10,9 @@
 
 ## Skills
 ```
-💻 Programming: Python, JavaScript, Java, SQL
-🌐 Web Development: React, Node.js, Express, MongoDB, HTML/CSS
-📊 Data Science: Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib
+💻 Programming: Python, Java, SQL
+🌐 Web Development: HTML/CSS
+📊 Data Science: Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Sea-Born
 🛠️ Tools: Git, Docker, AWS, Jupyter Notebooks
 ```
 
