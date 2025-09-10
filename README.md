@@ -12,8 +12,8 @@
 ```
 💻 Programming: Python, Java, SQL
 🌐 Web Development: HTML/CSS
-📊 Data Science: Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Sea-Born
-🛠️ Tools: Git, Docker, AWS, Jupyter Notebooks
+📊 Data Science: Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Sea-Born, Agentic AI
+🛠️ Tools: Git, Docker, AWS, Jupyter Notebooks, Huggingface
 ```
 
 ## Current Projects
